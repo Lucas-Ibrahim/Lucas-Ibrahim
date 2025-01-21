@@ -6,19 +6,6 @@ Olá, sou o Lucas! Atualmente estou cursando engenharia da computacao na Puc-Cam
 
 ---
 
-### 📱 Contato
-
-<img 
-    align="left" 
-    alt="lucas.ibrahimfwb@gmail.com" 
-    title="lucas.ibrahimfwb@gmail.com"
-    width="90px" 
-    style="padding-right: 10px;" 
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-/>
-
-<br><br>
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
