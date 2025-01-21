@@ -76,6 +76,7 @@ Olá, sou o Lucas! Atualmente estou cursando engenharia da computacao na Puc-Cam
     src="https://github-readme-stats.vercel.app/api?username=lucas-ibrahim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+<br/><br/>
 <img 
       align="left" 
       alt="GitHub Stats" 
