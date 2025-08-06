@@ -49,6 +49,16 @@ Olá, sou o Lucas! Atualmente estou cursando engenharia da computacao na Puc-Cam
     src="https://user-images.githubusercontent.com/96035297/186022424-f96144ad-7b39-4add-a0dc-3c0ec400124f.png" 
 />
 
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=512&id=40670&format=png" 
+/>
+
+
 <br/>
 <br/>
 
