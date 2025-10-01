@@ -64,7 +64,7 @@ Olá, sou o Lucas! Atualmente estou cursando engenharia da computacao na Puc-Cam
     title="VHDL"
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://play-lh.googleusercontent.com/vl0b1cjMAWvoPU6Rm5d7g3QWRaxq35QbOc-ln0iCpV1OetUmlF4uKiLgdP3rbvinKw=w600-h300-pc0xffffff-pd" 
+    src="https://play-lh.googleusercontent.com/vl0b1cjMAWvoPU6Rm5d7g3QWRaxq35QbOc-ln0iCpV1OetUmlF4uKiLgdP3rbvinKw" 
 />
 
 <br/>
