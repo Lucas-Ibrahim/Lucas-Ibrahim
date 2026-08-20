@@ -1,81 +1,36 @@
-# 👱🏻‍♂️ Lucas Ibrahim
+# Lucas Ibrahim
 
-**`Estudante de engenharia da computacao`**
+Engenharia da Computação, PUC Campinas, 6º semestre.
 
-Olá, sou o Lucas! Atualmente estou cursando engenharia da computacao na Puc-Campinas.
+Estagiei na Tesouraria do Banco BV, trabalhando com análise quantitativa e conceitos de renda fixa. Hoje sou Diretor de Eventos na Liga de TI e Empreendedorismo da PUC Campinas e Google Student Ambassador 2026. Construindo base em cibersegurança e explorando onde entra tecnologia dentro de finanças.
 
----
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lucas-Ibrahim&show_icons=true&theme=tokyonight&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ibrahim&layout=compact&theme=tokyonight&hide_border=true)
 
-### 🤖 Linguagens e Tecnologias
+![Snake animation](https://raw.githubusercontent.com/Lucas-Ibrahim/Lucas-Ibrahim/output/github-contribution-grid-snake.svg)
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node Js" 
-    title="Node JS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Assembly x86" 
-    title="Assembly x86"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://user-images.githubusercontent.com/96035297/186022424-f96144ad-7b39-4add-a0dc-3c0ec400124f.png" 
-/>
+## Projetos
 
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=512&id=40670&format=png" 
-/>
+**FloodWatch**
+Monitor de alagamento urbano com IoT. ESP8266 lê nível de água via sensor ultrassônico, publica em MQTT, Node RED processa os dados e um dashboard web mostra nível em tempo real, mapa interativo e dados meteorológicos. Projeto em grupo de 3 pessoas, disciplina de IoT.
+[repositório](https://github.com/Lucas-Ibrahim/Trilha-Formativa-IOT-Projeto-final)
 
-<img 
-    align="left" 
-    alt="VHDL" 
-    title="VHDL"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://play-lh.googleusercontent.com/vl0b1cjMAWvoPU6Rm5d7g3QWRaxq35QbOc-ln0iCpV1OetUmlF4uKiLgdP3rbvinKw" 
-/>
+**Sistema de Vendas com Árvore Binária**
+Sistema de gerenciamento de vendas em C, usando árvore binária de busca. Cadastro, remoção, busca por matrícula ou vendedor e estatísticas de faturamento. Projeto individual.
+[repositório](https://github.com/Lucas-Ibrahim/Sistema-De-Vendas-Arvore-Binaria)
 
-<br/>
-<br/>
+**Sistema de Controle Financeiro Pessoal**
+Aplicação de controle financeiro pessoal. Responsável pelo backend. Projeto em equipe, disciplina de Desenvolvimento de Aplicativos.
+[repositório](https://github.com/Lucas-Ibrahim/Sistema-de-Controle-Financeiro-Pessoal)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ibrahim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+**Toytrace**
+Implementação simplificada de um strace em C. Projeto em grupo de 4 pessoas, disciplina de Sistemas Operacionais.
+[repositório](https://github.com/Lucas-Ibrahim/PUC-Proj-SO-1s-26-toytrace)
 
+## Tecnologias
 
-</p>
+`JavaScript` `C` `Python` `Node.js` `Assembly x86` `VHDL`
+
+## Contato
+
+lucas.ibrahimfwb@gmail.com · [LinkedIn](https://www.linkedin.com/in/lucas-leal-ibrahim-a91723397)
