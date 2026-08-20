@@ -4,9 +4,6 @@ Engenharia da Computação, PUC Campinas, 6º semestre.
 
 Estagiei na Tesouraria do Banco BV, trabalhando com análise quantitativa e conceitos de renda fixa. Hoje sou Diretor de Eventos na Liga de TI e Empreendedorismo da PUC Campinas e Google Student Ambassador 2026. Construindo base em cibersegurança e explorando onde entra tecnologia dentro de finanças.
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lucas-Ibrahim&show_icons=true&theme=tokyonight&hide_border=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ibrahim&layout=compact&theme=tokyonight&hide_border=true)
-
 ![Snake animation](https://raw.githubusercontent.com/Lucas-Ibrahim/Lucas-Ibrahim/output/github-contribution-grid-snake.svg)
 
 ## Projetos
@@ -29,7 +26,12 @@ Implementação simplificada de um strace em C. Projeto em grupo de 4 pessoas, d
 
 ## Tecnologias
 
-`JavaScript` `C` `Python` `Node.js` `Assembly x86` `VHDL`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-x86-654FF0?style=flat)
+![VHDL](https://img.shields.io/badge/VHDL-blue?style=flat)
 
 ## Contato
 
