@@ -12,12 +12,7 @@ Estagiei na Tesouraria do Banco BV, trabalhando com análise quantitativa e conc
 
 Agente de áudio ambiental para passagem de turno, desenvolvido em hackathon com um time de 4 pessoas. Ele escuta a conversa dos operadores, confere em tempo real se os itens críticos do checklist foram cobertos e intervém por voz apenas se algo ficou de fora. No fim, publica um resumo no Slack.
 
-**Minha parte: orquestração e backend (FastAPI + WebSocket)**
-1. Defini e congelei os contratos de dados entre as quatro frentes do time
-2. Construí o hub que recebe a transcrição, mantém o estado do turno e atualiza o dashboard em tempo real via WebSocket
-3. Implementei a detecção de fim de turno e o disparo dos eventos de voz (TTS) e Slack
-4. Isolei falhas da memória externa (Ambiguous) para que não travassem o fluxo principal
-5. Conduzi o marco de integração entre os branches do time
+**Minha parte: orquestração e parte do backend (FastAPI + WebSocket)** (testes automatizados com pytest)
 
 **Stack do projeto:** FastAPI, WebSocket, OpenAI + Pydantic, Ambiguous AI, Slack Webhook
 
